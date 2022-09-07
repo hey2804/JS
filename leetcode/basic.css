@@ -1,0 +1,15 @@
+*{
+    position: relative;
+}
+body{
+    padding: 50px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "微軟正黑體";
+}
+.example{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: lightgray;
+
+}
